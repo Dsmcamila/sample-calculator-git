@@ -37,7 +37,7 @@ public class CalculatorParametersTest {
     @Test
     public void given_two_parameters_when_addition_then_ok() {
         Calculator c = new Calculator();
-        assertEquals(6, c.adittion(4, 2));
+        assertEquals(6, c.addition(4, 2));
         System.out.println("Test 1");
     }
 }

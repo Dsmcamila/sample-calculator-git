@@ -4,10 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3121a33-cb01-40f9-9ece-3358854e3580" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ec/epn/edu/git/calculator/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ec/epn/edu/Main.java" beforeDir="false" />
+    <list default="true" id="b3121a33-cb01-40f9-9ece-3358854e3580" name="Changes" comment="Adding calculator class and unit tests">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ec/epn/edu/git/calculator/CalculatorExecute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ec/epn/edu/git/calculator/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ec/epn/edu/git/calculator/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ec/epn/edu/git/calculator/CalculatorParametersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ec/epn/edu/git/calculator/CalculatorParametersTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ec/epn/edu/git/calculator/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ec/epn/edu/git/calculator/CalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ec/epn/edu/git/calculator/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ec/epn/edu/git/calculator/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ec/epn/edu/git/calculator/CalculatorParametersTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ec/epn/edu/git/calculator/CalculatorParametersTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ec/epn/edu/git/calculator/CalculatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ec/epn/edu/git/calculator/CalculatorTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,27 +29,31 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit3 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Dsmcamila"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Dsmcamila&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Dsmcamila/sample-calculator-git.git",
-    "accountId": "fab2702f-9db0-471d-83f1-67ae4c3f3683"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Dsmcamila/sample-calculator-git.git&quot;,
+    &quot;accountId&quot;: &quot;fab2702f-9db0-471d-83f1-67ae4c3f3683&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2wnMWq4hKSj78p0yitAzS1MAJB7" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -52,7 +61,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CalculatorExecute.executor": "Run",
     "JUnit.CalculatorParametersTest.executor": "Run",
+    "Maven.sample-calculator-git [clean].executor": "Run",
+    "Maven.sample-calculator-git [test].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit3",
@@ -101,12 +113,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1746672921760</updated>
-      <workItem from="1746672923642" duration="1575000" />
+      <workItem from="1746672923642" duration="3521000" />
     </task>
+    <task id="LOCAL-00001" summary="Adding calculator class and unit tests">
+      <option name="closed" value="true" />
+      <created>1746674578649</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1746674578649</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding calculator class and unit tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding calculator class and unit tests" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

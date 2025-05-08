@@ -3,7 +3,7 @@ package ec.epn.edu.git.calculator;
 public class Calculator {
 
     public int ans;
-    public int adittion(int a, int b) {
+    public int addition(int a, int b) {
         return a + b;
     }
 

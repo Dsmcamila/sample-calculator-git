@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3121a33-cb01-40f9-9ece-3358854e3580" name="Changes" comment="Add comment CalculatorExecute" />
+    <list default="true" id="b3121a33-cb01-40f9-9ece-3358854e3580" name="Changes" comment="Add comment CalculatorExecute">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ec/epn/edu/git/calculator/CalculatorExecute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ec/epn/edu/git/calculator/CalculatorExecute.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,7 +108,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1746672921760</updated>
-      <workItem from="1746672923642" duration="9082000" />
+      <workItem from="1746672923642" duration="10498000" />
     </task>
     <task id="LOCAL-00001" summary="Adding calculator class and unit tests">
       <option name="closed" value="true" />
@@ -155,7 +158,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746754722904</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add comment CalculatorExecute">
+      <option name="closed" value="true" />
+      <created>1746754885976</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1746754885976</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
